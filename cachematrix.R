@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Use the cacheSolve function, which calls the makeCacheMatrix stored data, to compute 
+## the inverse of a matrix.
 
 ## Function to put a matrix and inverse into cache memory
   
